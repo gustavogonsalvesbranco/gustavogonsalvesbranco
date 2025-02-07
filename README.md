@@ -19,7 +19,7 @@
 <h2 align="center">🛠️ Tecnologias que uso</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,expo,js,html,css,github,vscode,firebase" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,github,vscode,firebase" alt="Tech Stack" />
 </p>
 
 ---
