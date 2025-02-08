@@ -28,7 +28,7 @@ Eu me chamo Gustavo Gonsalves Branco, tenho 18 anos. Concluí o encino médio no
 
 <img align="left" alt="Visual Stúdio Code" title="Visual Stúdio Code" width="30px" style="padding-right: 10px" src="https://skillicons.dev/icons?i=vscode"/>
 
----
+<br/><br/>
 
 ### 🤖 Estatísticas
 
