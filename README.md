@@ -1,44 +1,37 @@
-<h1 align="center">Opa mano, eu me chamo Gustavo e você está no meu portfólio! 👋</h1>
+# 👀 Gustavo
+
+**`Desemvolvedor front-end`**
+
+Eu me chamo Gustavo Gonsalves Branco, tenho 18 anos. Concluí o encino médio no Zulmira Alta da Silva e concluí um curso técnico em Informática para internet no IFSC. Atualmente, estou cursando Sistemas da informação na Uniplac. Sou apaixonado em tecnologia e em React Native.
+
+---
 
 <p align="center">
-  ⚡ Dev Mobile apaixonado por <strong>React Native + Expo</strong>  
-  <br>🎮 Criando apps dinâmicos e interativos  
-  <br>💻 Sempre explorando novas tecnologias!  
+<a href="https://wa.me/+554998243576" target="_blank">
+<img src="https://img.shields.io/badge/whats-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 </p>
 
----
+### 🤖 Linguagens e Tecnologias
 
-<h2 align="center"> 🚀 Sobre mim </h2>
+<img align="left" alt="React Native" title="react-native" width="30px" style="padding-right: 10px" src="https://skillicons.dev/icons?i=react"/>
 
-- 🔹 Desenvolvedor Mobile especializado em **React Native** e **Expo**  
-- 🎯 Focado em criar **experiências visuais incríveis** no Frontend  
-- 🛠️ Sempre buscando melhorar minhas habilidades e aprender coisas novas  
+<img align="left" alt="HTML" title="html" width="30px" style="padding-right: 10px" src="https://skillicons.dev/icons?i=html"/>
 
----
+<img align="left" alt="CSS" title="css" width="30px" style="padding-right: 10px" src="https://skillicons.dev/icons?i=css"/>
 
-<h2 align="center">🛠️ Tecnologias que uso</h2>
+<img align="left" alt="JavaScript" title="javascript" width="30px" style="padding-right: 10px" src="https://skillicons.dev/icons?i=js"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,github,vscode,firebase" alt="Tech Stack" />
-</p>
+<img align="left" alt="NodeJS" title="NodeJS" width="30px" style="padding-right: 10px" src="https://skillicons.dev/icons?i=nodejs"/>
 
----
+<img align="left" alt="Firebase" title="Firebase" width="30px" style="padding-right: 10px" src="https://skillicons.dev/icons?i=firebase"/>
 
-<h2 align="center">📌 Projetos em Destaque</h2>
-
-🔹 [**GusTask**](https://github.com/gustavogonsalvesbranco/GusTask) - Aplicativo de lista de tarefas com login, adição, edição e remoção de tarefas.  
-🔹 [**Cine TI**](https://gitrub.com/gustavogonsalvesbranco/CineTI) - Aplicativo para buscar filmes, visualizar detalhes, favoritar e armazenar preferências com Firebase.  
+<img align="left" alt="Visual Stúdio Code" title="Visual Stúdio Code" width="30px" style="padding-right: 10px" src="https://skillicons.dev/icons?i=vscode"/>
 
 ---
 
-<h2 align="center">📫 Entre em Contato</h2>
+### 🤖 Estatísticas
 
-<p align="center">
-  <a href="https://wa.me/+554998243576" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</p>
+<img align="left" alt="Estatísticas do meu github" height="200" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api?username=gustavogonsalvesbranco&show_icons=true&theme=tokyonight&include_all_commits=true&locate=pt-br"/>
 
----
-
-<p align="center">🔥 Feito com ❤️ por Gu! 🔥</p>
+<img align="left" alt="Estatísticas do meu github" height="200" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogonsalvesbranco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"/>
