@@ -1,37 +1,24 @@
-# 👀 Gustavo
+### Salve! Eu sou o Gustavo Gonsalves Branco 👋
 
-**`Desemvolvedor front-end`**
-
-Eu me chamo Gustavo Gonsalves Branco, tenho 18 anos. Concluí o encino médio no Zulmira Alta da Silva e concluí um curso técnico em Informática para internet no IFSC. Atualmente, estou cursando Sistemas da informação na Uniplac. Sou apaixonado em tecnologia e em React Native.
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@GUSTAVOBR)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+554998243576)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustavogonsalvesbranco)
 
 ---
 
-<p align="center">
-<a href="https://wa.me/+554998243576" target="_blank">
-<img src="https://img.shields.io/badge/whats-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-</p>
+![Gustavo status do Github](https://github-readme-stats.vercel.app/api?username=gustavogonsalvesbranco&show_icons=true&theme=dracula)
 
-### 🤖 Linguagens e Tecnologias
+## Tecnologias do meu dia
 
-<img align="left" alt="React Native" title="react-native" width="30px" style="padding-right: 10px" src="https://skillicons.dev/icons?i=react"/>
+<div style="display: inline_block">
+<img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img align="center" alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img align="center" alt="React Native" src="https://img.shields.io/badge/React%20native-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</div><br/>
 
-<img align="left" alt="HTML" title="html" width="30px" style="padding-right: 10px" src="https://skillicons.dev/icons?i=html"/>
+ ---
 
-<img align="left" alt="CSS" title="css" width="30px" style="padding-right: 10px" src="https://skillicons.dev/icons?i=css"/>
-
-<img align="left" alt="JavaScript" title="javascript" width="30px" style="padding-right: 10px" src="https://skillicons.dev/icons?i=js"/>
-
-<img align="left" alt="NodeJS" title="NodeJS" width="30px" style="padding-right: 10px" src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img align="left" alt="Firebase" title="Firebase" width="30px" style="padding-right: 10px" src="https://skillicons.dev/icons?i=firebase"/>
-
-<img align="left" alt="Visual Stúdio Code" title="Visual Stúdio Code" width="30px" style="padding-right: 10px" src="https://skillicons.dev/icons?i=vscode"/>
-
-<br/><br/>
-
-### 🤖 Estatísticas
-
-<img align="left" alt="Estatísticas do meu github" height="200" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api?username=gustavogonsalvesbranco&show_icons=true&theme=tokyonight&include_all_commits=true&locate=pt-br"/>
-
-<img align="left" alt="Estatísticas do meu github" height="200" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogonsalvesbranco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"/>
+ Apaixonado por tecnologias e React Native
