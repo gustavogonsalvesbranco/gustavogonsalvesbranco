@@ -1,4 +1,4 @@
-<h1 align="center">Aoba mano, eu sou o Gustavo! 👋</h1>
+<h1 align="center">Opa mano, eu me chamo Gustavo e você está no meu portfólio! 👋</h1>
 
 <p align="center">
   ⚡ Dev Mobile apaixonado por <strong>React Native + Expo</strong>  
@@ -26,8 +26,8 @@
 
 <h2 align="center">📌 Projetos em Destaque</h2>
 
-🔹 [**GusTask**](#) - Aplicativo de lista de tarefas com login, adição, edição e remoção de tarefas.  
-🔹 [**Cine TI**](#) - Aplicativo para buscar filmes, visualizar detalhes, favoritar e armazenar preferências com Firebase.  
+🔹 [**GusTask**](https://github.com/gustavogonsalvesbranco/GusTask) - Aplicativo de lista de tarefas com login, adição, edição e remoção de tarefas.  
+🔹 [**Cine TI**](https://gitrub.com/gustavogonsalvesbranco/CineTI) - Aplicativo para buscar filmes, visualizar detalhes, favoritar e armazenar preferências com Firebase.  
 
 ---
 
